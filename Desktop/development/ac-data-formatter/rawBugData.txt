@@ -1,0 +1,405 @@
+Common Butterfly
+160
+Flying
+4AM - 7PM
+North: J F M A M J J A S O N D
+South: J F M A M J J A S O N D
+Yellow Butterfly
+160
+Flying
+4AM - 7PM
+North: J F M A M J J A S O N D
+Tiger Butterfly
+240
+Flying
+4AM - 7PM
+North: J F M A M J J A S O N D
+Peacock Butterfly
+2,500
+Flying near black, blue, or purple flowers
+4AM - 7PM
+North: J F M A M J J A S O N D
+Common Bluebottle
+300
+Flying
+4AM - 7PM
+North: J F M A M J J A S O N D
+Paper Kite Butterfly
+1,000
+Flying
+8AM - 7PM
+North: J F M A M J J A S O N D
+South: J F M A M J J A S O N D
+Great Purple Emperor
+3,000
+Flying
+4AM - 7PM
+North: J F M A M J J A S O N D
+Monarch Butterfly
+140
+Flying
+4AM - 5PM
+North: J F M A M J J A S O N D
+Emperor Butterfly
+4,000
+Flying
+7PM - 8AM
+North: J F M A M J J A S O N D
+Agrias Butterfly
+3,000
+Flying
+8AM - 5PM
+North: J F M A M J J A S O N D
+Rajah Brooke's Birdwing
+2,500
+Flying near purple flowers
+8AM - 5PM
+North: J F M A M J J A S O N D
+Queen Alexandra's Birdwing
+4,000
+Flying
+8AM - 4PM
+North: J F M A M J J A S O N D
+Moth
+130
+Near lights
+7PM - 4AM
+North: J F M A M J J A S O N D
+South: J F M A M J J A S O N D
+Atlas Moth
+3,000
+On trees
+7PM - 4AM
+North: J F M A M J J A S O N D
+Madagascan Sunset Moth
+2,500
+Flying
+8AM - 4PM
+North: J F M A M J J A S O N D
+Long Locust
+200
+On the ground
+8AM - 7PM
+North: J F M A M J J A S O N D
+Migratory Locust
+600
+On the ground
+8AM - 7PM
+North: J F M A M J J A S O N D
+Rice Grasshopper
+160
+On the ground
+8AM - 7PM
+North: J F M A M J J A S O N D
+Grasshopper
+160
+On the ground
+8AM - 5PM
+North: J F M A M J J A S O N D
+Cricket
+130
+On the ground
+5PM - 8AM
+North: J F M A M J J A S O N D
+Bell Cricket
+430
+On the ground
+5PM - 8AM
+North: J F M A M J J A S O N D
+Mantis
+430
+On flowers
+8AM - 5PM
+North: J F M A M J J A S O N D
+Orchid Mantis
+2,400
+On white flowers
+8AM - 5PM
+North: J F M A M J J A S O N D
+Honeybee
+200
+Near flowers
+8AM - 5PM
+North: J F M A M J J A S O N D
+Wasp
+2,500
+In trees
+All day
+North: J F M A M J J A S O N D
+South: J F M A M J J A S O N D
+Brown Cicada
+250
+On trees
+8AM - 5PM
+North: J F M A M J J A S O N D
+Robust Cicada
+300
+On trees
+8AM - 5PM
+North: J F M A M J J A S O N D
+Giant Cicada
+500
+On  trees
+8AM - 5PM
+North: J F M A M J J A S O N D
+Walker Cicada
+400
+On trees
+8AM - 5PM
+North: J F M A M J J A S O N D
+Evening Cicada
+550
+On trees
+4AM - 8AM, 4PM - 7PM
+North: J F M A M J J A S O N D
+Cicada Shell
+10
+On trees
+All day
+North: J F M A M J J A S O N D
+Red Dragonfly
+180
+Flying
+8AM - 7PM
+North: J F M A M J J A S O N D
+Darner Dragonfly
+230
+Flying
+8AM - 5PM
+North: J F M A M J J A S O N D
+Banded Dragonfly
+4,500
+Flying
+8AM - 5PM
+North: J F M A M J J A S O N D
+Damselfly
+500
+Flying
+All day
+J F M A M J J A S O  N D
+Firefly
+300
+Flying
+7PM - 4AM
+J F M A M  J J A S O N D
+Mole Cricket
+500
+Underground
+All day
+ J F M A M  J J A S O   N D
+Pondskater
+130
+On ponds and rivers
+8AM - 7PM
+J F M A M J J A S O N D
+Diving Beetle
+800
+On ponds and rivers
+7PM - 8AM
+J F M A M J J A S O N D
+Giant Water Bug
+2,000
+On ponds and rivers
+7PM - 8AM
+J F M  A M J J A S O N D
+Stinkbug
+120
+On flowers
+All day
+J F   M A M J J A S O  N D
+Man-Faced Stink Bug
+1,000
+On flowers
+7PM - 8AM
+J F   M A M J J A S O  N D
+Ladybug
+200
+On flowers
+8AM - 5PM
+J F   M A M J  J A S   O  N D
+Tiger Beetle
+1,500
+On the ground
+All day
+J   F M A M J J A S O  N D
+Jewel Beetle
+2,400
+On tree stumps
+All day
+J F M A M J J A S O N D
+Violin Beetle
+450
+On tree stumps
+All day
+J F M A M J J A S O N D
+Citrus Long-Horned Beetle
+350
+On tree stumps
+All day
+J F M A M J J A S O N D
+Rosalia Batesi Beetle
+3,000
+On tree stumps
+All day
+J F M A  M J J A S O N D
+Blue Weevil Beetle
+800
+On trees
+All day
+J F M A M J  J A S O N D
+Dung Beetle
+3,000
+On the ground (rolling snowballs)
+All day
+J F M A M J J A S O N  D
+Earth-Boring Dung Beetle
+300
+On the ground
+All day
+J F M A M J  J A S O N D
+Scarab Beetle
+10,000
+On trees
+11PM - 8AM
+J F M A M  J J A S O N D
+Drone Beetle
+200
+On trees
+All day
+J F M A M  J J A S O N D
+Goliath Beetle
+8,000
+On palm trees
+5PM - 8AM
+J F M A M  J J A S O N D
+Saw Stag
+2,000
+On trees
+All day
+J F M A M J  J A S O N D
+Miyama Stag
+1,000
+On trees
+All day
+J F M A M J  J A S O N D
+Giant Stag
+10,000
+On trees
+11PM - 8AM
+J F M A M J J A S O N D
+Rainbow Stag
+6,000
+On trees
+7PM - 8AM
+J F M A M  J J A S O N D
+Cyclommatus Stag
+8,000
+On palm trees
+5PM - 8AM
+J F M A M J  J A S O N D
+Golden Stag
+12,000
+On palm trees
+5PM - 8AM
+J F M A M J J A S O N D
+Giraffe Stag
+On trees
+5PM - 8AM
+J F M A M J J A S O N D
+Horned Dynastid
+1,350
+On trees
+5PM - 8AM
+J F M A M J J A S O N D
+Horned Atlas
+8,000
+On palm trees
+5PM - 8AM
+J F M A M J J A S O N D
+Horned Elephant
+8,000
+On palm trees
+5PM - 8AM
+J F M A M J J A S O N D
+Horned Hercules
+12,000
+On palm trees
+5PM - 8AM
+J F M A M J  J A S O N D
+Walking Stick
+600
+On trees
+4AM - 8AM, 5PM - 7PM
+J F M A M J  J A S O N D
+Walking Leaf
+600
+Under trees
+All day
+J F M A M J  J A S O N D
+Bagworm
+600
+In trees
+All day
+J F M A M J J A S O N D
+Ant
+80
+On rotten food
+All day
+J F M A M J J A S O N D
+Hermit Crab
+1,000
+On the beach
+7PM - 8AM
+J F M A M J J A S O N D
+Wharf Roach
+200
+On beach rocks
+All day
+J F M A M J J A S O N D
+Fly
+60
+Near trash
+All day
+J F M A M J J A S O N D
+Mosquito
+130
+Flying
+5PM - 4AM
+J F M A M  J J A S O N D
+Flea
+70
+On villagers
+All day
+J F M  A M J J A S O N D
+Snail
+250
+Very Common
+On rocks (when raining)
+All day
+J F M A M J J A S O N D
+Pill Bug
+250
+Common
+Under rocks
+11PM - 4PM
+ J F M A M J  J A  S O N D
+Centipede
+300
+Under rocks
+4PM - 11PM
+ J F M A M J  J A  S O N D
+Spider
+480
+In trees
+7PM - 8AM
+J F M A M J J A S O N D
+Tarantula
+8,000
+On the ground
+7PM - 4AM
+ J F M A  M J J A S O   N D
+Scorpion
+8,000
+On the ground
+7PM - 4AM
+J F M A  M J J A S O N D
